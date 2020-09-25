@@ -1,4 +1,6 @@
-## Background
+**Note:** If you want to want jump straight into the editor, go [here](https://magmabyte.github.io/game-of-chance/).
+
+## The Game of Life
 
 The Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. Game of Life is Turing complete, meaning it can do anything your computer can, only arguably much less efficient.
 
@@ -6,7 +8,7 @@ The Game of Life is taught in most introductory Computer Science courses as it i
 
 ![XKCD Comic 2293](https://imgs.xkcd.com/comics/rip_john_conway.gif)
 
-## The Game of Life
+## The Rules
 
 The rules are simple. In each round, each cell is checked for whether it should be alive or dead.
 
@@ -42,8 +44,6 @@ This is my final rule set:
 It creates patterns similar to this:
 
 ![Game of Chance on my website](./gifs/website.gif)
-
-
 
 ## Deployment instructions
 
